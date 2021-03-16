@@ -10,4 +10,6 @@ The core techniques could be found at the following papers:
 The prototypes are deployed at the following site:
 
 1. http://coinswapapp.io/ (Ethereum mainnet)
-2. http://bsccoinswap.io/ (BSC testnet)
+2. http://bsccoinswap.io/ (BSC mainnet)
+3. http://okcoinswap.io/ (OK testnet)
+4. http://hecocoinswap.io/ (HECO testnet)
